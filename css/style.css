@@ -1,3 +1,6 @@
+.panda-bg{
+    background-color: #FCEAE8;
+}
 .border-radius-5{
     border-radius: 10px;
     padding: 10px 0;
@@ -5,4 +8,7 @@
 .card-footer-style{
     background-color: #ffff;
     border: none;
+}
+.button-bg{
+background-color: #FF2B7E;
 }
